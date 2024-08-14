@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chem/static/css/main.e9dc2a87.css",
+    "main.js": "/Chem/static/js/main.681c830d.js",
+    "index.html": "/Chem/index.html",
+    "main.e9dc2a87.css.map": "/Chem/static/css/main.e9dc2a87.css.map",
+    "main.681c830d.js.map": "/Chem/static/js/main.681c830d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9dc2a87.css",
+    "static/js/main.681c830d.js"
+  ]
+}
